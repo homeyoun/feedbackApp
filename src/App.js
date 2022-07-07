@@ -1,6 +1,7 @@
 import { useState } from "react";
 import FeedbackList from "./components/FeedbackList";
 import Header from "./components/Header";
+import Card from "./components/shared/Card";
 import FeedbackData from "./data/FeedbackData";
 
 function App() {
